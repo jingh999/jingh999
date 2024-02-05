@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jingh999
+- 👋 Hi, I’m @jing.huang
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning data modelling and python
 - 💞️ I’m looking to collaborate on ...
